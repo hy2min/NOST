@@ -30,7 +30,7 @@
 <br/>
 
 # 🏗️ 서비스 아키텍처
-![image](https://github.com/1489ehdghks/NOST/assets/159985538/6155f958-9fb4-444a-8e89-75671c4bd7f8)
+![image](https://github.com/user-attachments/assets/2af458fe-7bd3-4a0c-9725-b8f985c0a67f)
 
 
 # ⚙️사용 환경 설정
@@ -108,15 +108,15 @@
 
 
 # 🛠️ ERD
-![image](https://github.com/1489ehdghks/NOST/assets/159985538/1793ecf8-4415-4591-81f6-91d568752063)
+![image](https://github.com/user-attachments/assets/3c38de4f-fa26-45a5-afe8-1924b708974f)
 
 <br/>
 
 # ✅주요 기능
-- **홈 페이지**  [📎Wiki - 상세보기](https://github.com/1489ehdghks/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login))
-- **책 목록**  [📎Wiki - 상세보기](https://github.com/1489ehdghks/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Book))
-- **프로필 페이지**  [📎Wiki - 상세보기](https://github.com/1489ehdghks/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Profile))
-- **소설 생성**  [📎Wiki - 상세보기](https://github.com/1489ehdghks/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(New-Novel))
+- **홈 페이지**  [📎Wiki - 상세보기](https://github.com/hy2min/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(Home-Page))
+- **책 목록**  [📎Wiki - 상세보기](https://github.com/hy2min/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(Novel-List))
+- **프로필 페이지**  [📎Wiki - 상세보기](https://github.com/hy2min/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(Profile))
+- **소설 생성**  [📎Wiki - 상세보기](https://github.com/hy2min/NOST/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(New-Novel))
 - **사이드바**
 
 <br/>
